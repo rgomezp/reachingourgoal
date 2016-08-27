@@ -1,0 +1,85 @@
+body{
+  background-color: white;
+  font-family: Roboto;
+}
+
+.header{
+
+}
+
+.navbar a{
+  font-family: Trebuchet MS;
+  color: #0E233E;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li{
+  display: inline;
+}
+
+.jumbotron{
+  margin-bottom: 0;
+  background-size: 300px;
+  background-image:url('huddle.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+  -webkit-box-shadow: inset 0px 79px 65px -84px rgba(0,0,0,1);
+  -moz-box-shadow: inset 0px 79px 65px -84px rgba(0,0,0,1);
+  box-shadow: inset 0px 79px 65px -84px rgba(0,0,0,1);
+}
+
+.one{
+  -webkit-box-shadow: inset 0px 79px 31px -84px rgba(0,0,0,1);
+  -moz-box-shadow: inset 0px 79px 31px -84px rgba(0,0,0,1);
+  box-shadow: inset 0px 79px 31px -84px rgba(0,0,0,1);
+}
+
+.two ul{
+  list-style-type:none;
+}
+.two li{
+  padding:10px;
+}
+
+.two{
+  background: url("turf.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  -webkit-box-shadow: inset 0px 79px 31px -84px rgba(0,0,0,1);
+  -moz-box-shadow: inset 0px 79px 31px -84px rgba(0,0,0,1);
+  box-shadow: inset 0px 79px 31px -84px rgba(0,0,0,1);
+}
+
+.three{
+  background:url("crowd.jpg");
+  background-size: cover;
+  font-size: 20px;
+  color: white;
+  -webkit-box-shadow: inset 0px 79px 31px -84px rgba(0,0,0,1);
+  -moz-box-shadow: inset 0px 79px 31px -84px rgba(0,0,0,1);
+  box-shadow: inset 0px 79px 31px -84px rgba(0,0,0,1);
+}
+
+.three p{
+  font-size: 15px;
+  line-height: 10px;
+}
+
+.four{
+  -webkit-box-shadow: inset 0px 79px 31px -84px rgba(0,0,0,1);
+  -moz-box-shadow: inset 0px 79px 31px -84px rgba(0,0,0,1);
+  box-shadow: inset 0px 79px 31px -84px rgba(0,0,0,1);
+}
+
+.five{
+  background-color: #EB514B;
+  height: 45px;
+}
+
+.five h4{
+  margin: 0px;
+}
